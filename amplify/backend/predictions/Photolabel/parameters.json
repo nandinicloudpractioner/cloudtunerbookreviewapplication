@@ -1,0 +1,15 @@
+{
+    "resourceName": "Photolabel",
+    "identifyPolicyName": "identifyPolicy99526f1d",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "adminAuthProtected": "DISALLOW",
+    "adminGuestProtected": "DISALLOW",
+    "identifyType": "identifyLabels",
+    "access":"PUBLIC",
+    "type":"ALL"
+}

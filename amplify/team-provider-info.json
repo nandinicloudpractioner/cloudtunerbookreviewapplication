@@ -1,0 +1,30 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifoto-dev-184603-authRole",
+      "UnauthRoleArn": "arn:aws:iam::475420534484:role/amplify-amplifoto-dev-184603-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::475420534484:role/amplify-amplifoto-dev-184603-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifoto-dev-184603-deployment",
+      "UnauthRoleName": "amplify-amplifoto-dev-184603-unauthRole",
+      "StackName": "amplify-amplifoto-dev-184603",
+      "StackId": "arn:aws:cloudformation:us-east-1:475420534484:stack/amplify-amplifoto-dev-184603/2f341aa0-24d2-11ee-9917-12d71a0c50d7",
+      "AmplifyAppId": "d3srqj09qtjwoq"
+    },
+    "categories": {
+      "api": {
+        "amplifoto": {}
+      },
+      "auth": {
+        "amplifotoddd76bd6": {},
+        "userPoolGroups": {}
+      },
+      "storage": {
+        "images": {}
+      },
+      "predictions": {
+        "Photolabel": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "resourceName": "images",
+  "policyUUID": "4223abe5",
+  "bucketName": "amplifotob09f39e25fd841e78839862fb5cfb0b7",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
